@@ -1,0 +1,12 @@
+name: fetcher
+title: fetcher
+username:
+account: xue1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 330351
+bundleId: 1339459
+url: https://xue1.shinyapps.io/fetcher/
+when: 1524689683.94854
+asMultiple: FALSE
+asStatic: FALSE
